@@ -4,6 +4,7 @@ Las carpetas deben visualizarse primero ordenadas alfabeticamente y luego se deb
 Se debe poder seleccionar varios archivos/carpetas y borrarlos. En caso de seleccionar más de uno se debe mostrar un mensaje de confirmación, en caso de ser uno borrar inmediatamente.
 Se deben mostrar los dueños y en caso de que el archivo o carpeta tenga más de 3 dueños debe mostrar otro circulo con la cantidad de dueños restantes.
 En caso de que el nombre del archivo tenga más de 10 caracteres mostrar puntos suspensivos y al pasar por encima mostrar el nombre completo en un tooltip.
+Se debe poder acceder a la carpeta y mostrar aquellos archivos que están dentro de la misma (solo 1 nivel). En caso de estar visualizando los archivos de una carpeta se debe tener una opción para ir a la carpeta raiz (debe mostrarse primero).
 
 Listado
 ![image](https://github.com/user-attachments/assets/45eccc80-c93e-4860-8a97-1ea3dcc518f7)
